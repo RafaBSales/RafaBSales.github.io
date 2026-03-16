@@ -27,4 +27,4 @@ _sass/vendors
 assets/js/dist
 
 # Custom
-_posts/template.md
+_templates/
