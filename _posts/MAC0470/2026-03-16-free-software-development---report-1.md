@@ -51,8 +51,6 @@ Luckily, the tutorial has a troubleshooting section that covers this exact scena
 
 > If you are developing on a host device with an Arch-based distribution, however, there is a chance that your ```libvirt``` network contains an incorrect firewall configuration. On the host device, open ```/etc/libvirt/network.conf``` with your favorite text editor and set ```firewall_backend=iptables```.
 
-As such, I *certainly* did not spend hours trying to fix this on my own because I *absolutely* read the tutorial all the way through before executing the steps. Of course not.
-
 After editing the ```/etc/libvirt/network.conf``` config file, the VM was able to properly connect to the internet, and I was able to connect to the VM through an SSH connection from the host.
 
 <!-- markdownlint-capture -->
@@ -94,7 +92,6 @@ function launch_vm_qemu() {
 }
 
 function create_vm_virsh() {
-    # DON'T FORGET TO ADAPT THE `--boot` LINE!!!
     sudo virt-install \
       --name "arm64" \
       --memory 2048 \
