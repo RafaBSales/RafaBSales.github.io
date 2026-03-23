@@ -4,7 +4,7 @@ layout: post
 title: "Free Software Development - Report #2"
 date: 2026-03-18 09:50 -0300
 categories: [University of São Paulo, Linux]
-tags: [kw, kernel, SSH, arch-linux, arm64] #Update
+tags: [kw, kernel, SSH, arch-linux, arm64]
 toc: true
 comments: false
 media_subpath: /assets/img
