@@ -4,7 +4,7 @@ layout: post
 title: "Free Software Development - Report #3"
 date: 2026-03-23 15:03 -0300
 categories: [University of São Paulo, Linux]
-tags: [kernel, modules, arch-linux, C]
+tags: [kernel, modules, C]
 toc: true
 comments: false
 media_subpath: /assets/img
