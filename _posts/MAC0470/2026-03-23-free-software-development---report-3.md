@@ -1,7 +1,7 @@
 ---
 # https://chirpy.cotes.page/posts/write-a-new-post/
 layout: post
-title: "Free Software Development - Report #3"
+title: "Free Software Development Report #3 - Tutorial 3"
 date: 2026-03-23 15:03 -0300
 categories: [University of São Paulo, Linux]
 tags: [kernel, modules, C]

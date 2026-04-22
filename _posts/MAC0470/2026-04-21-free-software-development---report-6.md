@@ -1,7 +1,7 @@
 ---
 # https://chirpy.cotes.page/posts/write-a-new-post/
 layout: post
-title: "Free Software Development - Report #6"
+title: "Free Software Development Report #6 - Tutorials 6 and 7"
 date: 2026-04-21 18:15 -0300
 categories: [University of São Paulo, Linux]
 tags: [kernel, drivers, C, modules]

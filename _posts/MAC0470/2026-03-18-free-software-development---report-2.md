@@ -1,7 +1,7 @@
 ---
 # https://chirpy.cotes.page/posts/write-a-new-post/
 layout: post
-title: "Free Software Development - Report #2"
+title: "Free Software Development Report #2 - Tutorial 2"
 date: 2026-03-18 09:50 -0300
 categories: [University of São Paulo, Linux]
 tags: [kw, kernel, SSH, arch-linux, arm64]

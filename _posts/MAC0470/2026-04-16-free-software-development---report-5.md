@@ -1,7 +1,7 @@
 ---
 # https://chirpy.cotes.page/posts/write-a-new-post/
 layout: post
-title: "Free Software Development - Report #5"
+title: "Free Software Development Report #5 - Tutorials 5.1 and 5.2"
 date: 2026-04-16 10:41 -0300
 categories: [University of São Paulo, Linux]
 tags: [git, email, patches]

@@ -1,7 +1,7 @@
 ---
 # https://chirpy.cotes.page/posts/write-a-new-post/
 layout: post
-title: "Free Software Development - Report #1"
+title: "Free Software Development Report #1 - Tutorial 1"
 date: 2026-03-16 16:09 -0300
 categories: [University of São Paulo, Linux]
 tags: [QEMU, libvirt, SSH, arch-linux, arm64]     # TAG names should always be lowercase
