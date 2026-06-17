@@ -135,4 +135,4 @@ With this, a new patchset was in order, this time containing **three** different
 
 ### The third patch
 
-This is a work in progress. Updates coming soon.
+[Available here.](https://lore.kernel.org/linux-iio/20260422231305.677778-1-rafasales@usp.br/)
